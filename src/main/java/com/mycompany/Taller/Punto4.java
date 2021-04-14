@@ -35,7 +35,7 @@ public class Punto4 extends HttpServlet{
         out.print("<body>");
         out.print("<h1>Spring MVC</h1>");
         out.print("<div id='texto'></div>");
-        out.print("<p><button onclick='cambiarTexto();'>Presióname para cambiar color</button></p>");
+        out.print("<p><button onclick='cambiarTexto();'>Mostrar texto</button></p>");
         out.print("</body>");
         out.print("</html>");
 
